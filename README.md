@@ -6,6 +6,6 @@ Hello, my name is Peyton. Welcome to my reading notes repository that will conta
 
 ## Table of Contents
 
-**N/A**
+[Reading 01](class-01.md)
 
 #### Link to author's page [here](https://github.com/Peyton-Cysewski).
