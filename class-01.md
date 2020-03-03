@@ -18,6 +18,27 @@ There are a lot of html tags, but I wanted to highlight some of the ones that ar
 
 - <div> This is what used to be used for every subdivison of a website from the main section to the smaller articles. HTML5 added specific words, but the 'div' method still functions.
 
+## Scripting
+
+Scripts are simply series of instructions. To make one it is best to start with the overall goal and then to take it one small step at a time, coding and testing these smaller steps as you go. Flowcharts are an excellent way to visualize and preplan the code.
+
+- Rectangles are Generic Steps
+- Hexagon shapes are Events
+- Rhomboid shapes are Inputs or Outputs
+- Diamonds are Decisions
+
+### Objects
+
+Since information is stored as simple data, it makes sense to define specific types of data with properties like a name or age.
+
+### Events
+
+Happen when an a certain action in the code takes place.
+
+### Methods
+
+Methods are synonomous with functions. They are scripts that tell how objects interact with other things.
+
 
 
 
