@@ -7,5 +7,7 @@ Hello, my name is Peyton. Welcome to my reading notes repository that will conta
 ## Table of Contents
 
 [Reading 01](class-01.md)
+[Reading 02](class-02.md)
+
 
 #### Link to author's page [here](https://github.com/Peyton-Cysewski).

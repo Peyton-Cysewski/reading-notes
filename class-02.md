@@ -55,3 +55,8 @@ Arrays can be created and they store lists of variables. The list always starts 
 Once all the pieces are set up, a script can be written that tells the variable what to do and how to interact with one another. Since the variables hold the value they were assigned, they can be referenced by their variable name and still function as numbers, strings, or boolean values. For example, if var a = 3 and var b = 7, then if c = a * b and the varible c was to be displayed, it would show as 21. These types of expressions are made using operators, in this specific case, arithmetic operators. There are also string operators, comparison operations, and logical operators.
 
 These operators are all used commonly with if statements and if-else statemtents.
+
+
+
+
+#### [Home](README.md)
