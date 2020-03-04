@@ -28,6 +28,25 @@ Box shadows can be placed around the image, but there is also an inset option to
 
 Borders can be rounded using border-radius with the radii of each corner the same or specified. There is also a way to make elliptically rounded corners using extra argumetns to make the sides of the corner different lengths.
 
+## JavaScript Decisions
+
+If statements check for certain conditions. If a specified conditio is met, then the codeblock contained in its curly braces is executed. Else statements have additonal conditions that the code proceeds to if the prior condition isn't met.
+
+Switch statments only look for a single variable. The statement then looks for that instance of the variable that is the same and executes the code block beneath it. Typically, break statements are added to leave after that code block, but if there isn't a break statement, then it will continue sequentially to the next code blocks.
+
+JavaScript tries to run code through coercion by changing the data type rather than strictly reporting errors. Due to this, all data types have a truthy or falsy 'backup' boolean type. To be clear, this is NOT a true boolean value, but is a lightweight substitute. (For a table of strict versus loose boolean comparisions see JS book page 168)
+
+Short circuit values are values that cause the expression to get a result and they return that value. It a truthy or falsy value, not a true boolean value.
+
+## JavaScript Loops
+
+For Loops have the keyword 'for', the condition (which includes a counter), and a code block in curley braces:
+- for (variable i = 0; i < 10; i++)
+
+While Loops do not need a counter to run. They will work as long as the condition is 'TRUE'. If a counter is being used, it needs to be added as a statement in the code block since there is no specified spot in its condition area like how there is with normal for loops.
+
+Do-While Loops are almost the same as its predecessor, except it will always run the statement in the code block at least once, even if the condition was evaluated as 'FALSE'. The first increment happens after the first execution of the code block.
+
 
 
 
