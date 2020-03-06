@@ -6,10 +6,11 @@ Hello, my name is Peyton. Welcome to my reading notes repository that will conta
 
 ## Table of Contents
 
-[Reading 01](class-01.md)
-[Reading 02](class-02.md)
-[Reading 03](class-03.md)
-[Reading 04](class-04.md)
+[Reading 01](reading-notes-01.md)
+[Reading 02](reading-notes-02.md)
+[Reading 03](reading-notes-03.md)
+[Reading 04](reading-notes-04.md)
+[Reading 05](reading-notes-05.md)
 
 
 #### Link to author's page [here](https://github.com/Peyton-Cysewski).
