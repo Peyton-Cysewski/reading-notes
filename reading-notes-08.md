@@ -7,5 +7,4 @@ CSS has already been covered in this set of reading notes, but some things can b
 
 
 
-
 #### [Home](README.md)
