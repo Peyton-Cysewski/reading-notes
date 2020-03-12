@@ -1,4 +1,6 @@
-# Object Literals
+# Reading 06
+
+## Object Literals
 
 Objects essentially group together a set of variables and functions to create a model of something that you might recognize in the real world. Variables inside of functions are called properties and functions are called methods. Similar to how these things can have names, inside of objects they are called keys and values, to make key-value pairs.
 
