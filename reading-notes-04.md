@@ -46,10 +46,4 @@ The advantages of pair programming are varied, but it is useful because overall 
 
 
 
-
-
-
-
-
-
 #### [Home](README.md)
