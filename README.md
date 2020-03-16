@@ -16,6 +16,7 @@ Hello, my name is Peyton. Welcome to my reading notes repository that will conta
 [Reading 08](reading-notes-08.md)
 [Reading 09](reading-notes-09.md)
 [Reading 10](reading-notes-10.md)
+[Reading 11](reading-notes-11.md)
 
 
 #### Link to author's page [here](https://github.com/Peyton-Cysewski).
