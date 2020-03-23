@@ -19,6 +19,8 @@ Hello, my name is Peyton. Welcome to my reading notes repository that will conta
 [Reading 11](reading-notes-11.md)
 [Reading 12](reading-notes-12.md)
 [Reading 13](reading-notes-13.md)
+[Reading 14b](reading-notes-14b.md)
+
 
 
 
